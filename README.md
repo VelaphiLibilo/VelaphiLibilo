@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VelaphiLibilo
+- 👀 I’m interested in programming computers
+- 🌱 I’m currently learning HTML, CSS & Javascript
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 You can reach me on velaphilibilo@outlook.com
